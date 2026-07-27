@@ -1,103 +1,83 @@
-/* ============================================================================
-   EDITA SOLO ESTE ARCHIVO PARA CADA CLIENTE O SEMANA
-   ============================================================================
-
-   CAMBIO RÁPIDO:
-   1. Edita la sección DATOS DEL CLIENTE.
-   2. Edita la sección DATOS DE LA SEMANA.
-   3. Cambia el texto, fecha e imágenes de las publicaciones.
-   4. Guarda las imágenes dentro de la carpeta "img".
-
-   NO es necesario editar index.html, config.js ni style.css.
-============================================================================ */
-
+/* Archivo generado desde editor-data.html */
 const CONFIG_SEMANAL = {
-
-    /* ------------------------------------------------------------------------
-       1. DATOS DEL CLIENTE
-       Estos datos se escriben UNA SOLA VEZ.
-    ------------------------------------------------------------------------ */
     cliente: "Ruby Sanchez",
     usuarioInstagram: "rubysanchez.propiedades",
-
-    // Firma que se agregará automáticamente al final de todas las publicaciones.
     firmaPublicaciones: "Contáctame y disfruta de tu nueva casa 🙌",
     whatsappPublicaciones: "📞 Ruby Sánchez: 999.970.167",
-
-    // Número al que llegará la aprobación. Solo números y con código de país.
-    // Déjalo vacío para que el cliente elija el chat de WhatsApp.
     whatsappDestino: "",
-
-    /* ------------------------------------------------------------------------
-       2. DATOS DE LA SEMANA
-    ------------------------------------------------------------------------ */
     titulo: "Calendario Julio 2026",
-    rangoFechas: "Semana del martes 21 al sábado 25 de julio",
-
-    /* ------------------------------------------------------------------------
-       3. PUBLICACIONES
-
-       tipo: puede ser "imagen", "video" o "carrusel".
-       diaSemana: fecha que verá el cliente.
-       imagenes: nombre y ubicación de las imágenes.
-       copy: escribe solamente el contenido principal. La firma se añade sola.
-
-       PARA UN CARRUSEL:
-       imagenes: ["img/1.jpg", "img/2.jpg", "img/3.jpg"]
-    ------------------------------------------------------------------------ */
+    rangoFechas: "Semana del lunes 27 al sábado 1 de agosto",
     publicaciones: [
         {
             tipo: "imagen",
-            diaSemana: "Martes 21 de julio",
-            imagenes: ["img/21.jpg"],
-            copy: `🏠 ¿Comprar, vender o invertir? No lo hagas a ciegas.
+            diaSemana: "Lunes 27 de julio",
+            imagenes: ["img/27.png"],
+            copy: `¡Feliz 28 de Julio! 🔴⚪🔴
 
-Mi objetivo es entregarte la información y el análisis que necesitas para que tu próxima decisión inmobiliaria sea la más rentable de tu vida.
+Celebremos nuestras raíces, disfrutemos en familia y sigamos apostando por lo que viene.
 
-Aquí encontrarás:
-🔍 Análisis reales de mercado.
-💡 Consejos para evitar errores costosos.
-📈 Oportunidades seleccionadas.
-
-¡Sígueme y aseguremos tu patrimonio juntos! 📲`
-        },
-
-        {
-            tipo: "imagen",
-            diaSemana: "Jueves 23 de julio",
-            imagenes: ["img/23.png"],
-            copy: `¡Feliz día, Fuerza Aérea del Perú! 🇵🇪 Recordamos al Capitán Quiñones, cuyo ejemplo de valentía y determinación nos inspira a diario en cada meta que nos proponemos. ¡Un honor celebrar su legado! ✈️`
+¡Un abrazo fuerte para todos en estas Fiestas Patrias! 🇵🇪🎉`
         },
 
         {
             tipo: "video",
-            diaSemana: "Viernes 24 de julio",
-            imagenes: ["img/24.jpg"],
-            copy: `¡ALQUILER EN SURCO (CAMINOS DEL INCA)! 🏢✨
+            diaSemana: "Jueves 30 de julio",
+            imagenes: ["img/30.jpg"],
+            copy: `Oficina comercial con máxima visibilidad en Surco. 🏢✨
 
-Vive frente al centro empresarial y comercial más exclusivo. Ubicación inmejorable y máxima comodidad.
+📍 Av. Tomás Marsano (2do piso, a pasos de la Estación Ayacucho y cerca al Óvalo Higuereta).
 
-💰 Alquiler: USD 1,200
+💰 Alquiler: USD 1,000 / S/ 3,400
 
-95 m² | Piso 3 (vista externa antirruido).
-2 dormitorios + cuarto de servicio con baño.
-Cocina cerrada (gas natural) + lavandería.
-Incluye cochera techada + depósito (4 m²).
-Edificio: Seguridad 24/7 y espectacular Rooftop con zona de parrilla.
+• 3 ambientes versátiles + kitchenette y baño completo
 
-Condiciones:
-Mantenimiento: S/ 350 (incluye agua).
-2x1 | Contrato 1 año | Buen historial crediticio.
-🚫 No mascotas.
+• Ventanas antiruido y vista panorámica
 
-¡Agenda tu visita hoy mismo!`
+• Espacio para anuncio publicitario hacia el flujo de la estación
+
+📲 Escríbeme por DM para coordinar una visita a tu próximo espacio de trabajo.`
         },
 
         {
             tipo: "video",
-            diaSemana: "Sábado 25 de julio",
-            imagenes: ["img/25.jpg"],
-            copy: `¡Celebrando nuestro mes patrio con colegas de ASPAI! 🇵🇪✨ Una excelente oportunidad para conectar y compartir en este gran evento.`
+            diaSemana: "Viernes 31 de julio",
+            imagenes: ["img/31.jpg"],
+            copy: `Multifamiliar con renta activa en San Juan de Miraflores. 🏢💰
+
+📍 Ubicación: Av. José María Seguín
+💰 Precio: USD 180,000
+
+Ideal para hospedaje, pensión o departamentos independientes.
+
+• 1er Piso: Depa completo (1 dorm) + cochera.
+• 2do Piso: 3 habitaciones + baño.
+• 3er Piso: 5 habitaciones con baño propio.
+
+📲 Escríbeme al privado para enviarte los números de rentabilidad y coordinar visita.`
+        },
+
+        {
+            tipo: "carrusel",
+            diaSemana: "Sábado 1 de agosto",
+            imagenes: ["img/1.jpg", "img/1_2.jpg", "img/1_3.jpg", "img/1_4.jpg"],
+            copy: `Depa con vista a parque en Comas por USD 48,000. 🌳🏢
+
+Ubicado en el Condominio Los Laureles (1era Etapa), en piso 16 (último piso, cero ruidos arriba), con excelente luz natural y vista al jardín interno.
+
+📍 Ubicación clave: A minutos de Av. Universitaria, Micaela Bastidas y Retablo. A 10 min de Mall Plaza Comas, Real Plaza Pro y universidades (UPN y UCV).
+
+Detalles del departamento (57 m²):
+• Sala-comedor iluminada con vista a áreas verdes
+
+• Cocina abierta + lavandería
+
+• 3 dormitorios + pisos laminados
+
+• 2 ascensores en la torre
+
+🏢 Condominio seguro 24/7: Juegos infantiles, cancha deportiva, salón de eventos, tiendas internas y vigilancia estricta. Mantenimiento: ~S/ 100.
+
+📲 Escríbeme al privado para agendar una visita.`
         }
     ]
 };
