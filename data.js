@@ -6,78 +6,60 @@ const CONFIG_SEMANAL = {
     whatsappPublicaciones: "📞 Ruby Sánchez: 999.970.167",
     whatsappDestino: "",
     titulo: "Calendario Julio 2026",
-    rangoFechas: "Semana del lunes 27 al sábado 1 de agosto",
+    rangoFechas: "Semana del martes 4 al sábado 8 de agosto",
     publicaciones: [
         {
             tipo: "imagen",
-            diaSemana: "Lunes 27 de julio",
-            imagenes: ["img/27.png"],
-            copy: `¡Feliz 28 de Julio! 🔴⚪🔴
+            diaSemana: "Martes 4 de agosto",
+            imagenes: ["img/4.jpg"],
+            copy: `🏡 ¿Qué es una hipoteca?
 
-Celebremos nuestras raíces, disfrutemos en familia y sigamos apostando por lo que viene.
+Es el préstamo que te permite comprar una vivienda, usando la misma propiedad como garantía hasta terminar de pagarla.
 
-¡Un abrazo fuerte para todos en estas Fiestas Patrias! 🇵🇪🎉`
+Conocer cómo funciona te ayudará a tomar mejores decisiones al momento de comprar tu hogar.`
+        },
+
+        {
+            tipo: "imagen",
+            diaSemana: "Jueves 6 de agosto",
+            imagenes: ["img/6.png"],
+            copy: `🇵🇪 6 de agosto | Batalla de Junín
+
+Hoy recordamos con orgullo la Batalla de Junín, símbolo de valentía y amor por el Perú.
+
+Honremos a quienes lucharon por nuestra libertad y sigamos construyendo un futuro con unión y esperanza.
+
+¡Gloria a los héroes de Junín! ❤️🤍❤️`
         },
 
         {
             tipo: "video",
-            diaSemana: "Jueves 30 de julio",
-            imagenes: ["img/30.jpg"],
-            copy: `Oficina comercial con máxima visibilidad en Surco. 🏢✨
+            diaSemana: "Viernes 7 de agosto",
+            imagenes: ["img/7.jpg"],
+            copy: `🎉 ¡Oficialmente RESERVADA! 🏡
 
-📍 Av. Tomás Marsano (2do piso, a pasos de la Estación Ayacucho y cerca al Óvalo Higuereta).
+La Casa José María Seguin – San Juan de Miraflores ya tiene minuta firmada y entró a la etapa final de venta. ✅
 
-💰 Alquiler: USD 1,000 / S/ 3,400
+📍 El cartel ya fue retirado.
 
-• 3 ambientes versátiles + kitchenette y baño completo
+¿También quieres vender o alquilar tu propiedad? Nosotros te ayudamos a lograrlo.
 
-• Ventanas antiruido y vista panorámica
-
-• Espacio para anuncio publicitario hacia el flujo de la estación
-
-📲 Escríbeme por DM para coordinar una visita a tu próximo espacio de trabajo.`
+📲 Escríbenos y recibe asesoría personalizada.`
         },
 
         {
             tipo: "video",
-            diaSemana: "Viernes 31 de julio",
-            imagenes: ["img/31.jpg"],
-            copy: `Multifamiliar con renta activa en San Juan de Miraflores. 🏢💰
+            diaSemana: "Sábado 8 de agosto",
+            imagenes: ["img/8.jpg"],
+            copy: `🏡 ¡Alquila en Surco!
 
-📍 Ubicación: Av. José María Seguín
-💰 Precio: USD 180,000
+📍 Av. Tomás Marsano
+💰 S/ 2,500 | USD 725
 
-Ideal para hospedaje, pensión o departamentos independientes.
+✨ 150 m² • 2 dormitorios • 1 baño • Lavandería y patio.
+Se alquila amoblado o sin amoblar.
 
-• 1er Piso: Depa completo (1 dorm) + cochera.
-• 2do Piso: 3 habitaciones + baño.
-• 3er Piso: 5 habitaciones con baño propio.
-
-📲 Escríbeme al privado para enviarte los números de rentabilidad y coordinar visita.`
-        },
-
-        {
-            tipo: "carrusel",
-            diaSemana: "Sábado 1 de agosto",
-            imagenes: ["img/1.jpg", "img/1_2.jpg", "img/1_3.jpg", "img/1_4.jpg"],
-            copy: `Depa con vista a parque en Comas por USD 48,000. 🌳🏢
-
-Ubicado en el Condominio Los Laureles (1era Etapa), en piso 16 (último piso, cero ruidos arriba), con excelente luz natural y vista al jardín interno.
-
-📍 Ubicación clave: A minutos de Av. Universitaria, Micaela Bastidas y Retablo. A 10 min de Mall Plaza Comas, Real Plaza Pro y universidades (UPN y UCV).
-
-Detalles del departamento (57 m²):
-• Sala-comedor iluminada con vista a áreas verdes
-
-• Cocina abierta + lavandería
-
-• 3 dormitorios + pisos laminados
-
-• 2 ascensores en la torre
-
-🏢 Condominio seguro 24/7: Juegos infantiles, cancha deportiva, salón de eventos, tiendas internas y vigilancia estricta. Mantenimiento: ~S/ 100.
-
-📲 Escríbeme al privado para agendar una visita.`
+📲 Agenda tu visita antes de que se alquile.`
         }
     ]
 };
