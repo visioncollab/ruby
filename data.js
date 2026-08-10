@@ -5,61 +5,83 @@ const CONFIG_SEMANAL = {
     firmaPublicaciones: "Contáctame y disfruta de tu nueva casa 🙌",
     whatsappPublicaciones: "📞 Ruby Sánchez: 999.970.167",
     whatsappDestino: "",
-    titulo: "Calendario Julio 2026",
-    rangoFechas: "Semana del martes 4 al sábado 8 de agosto",
+    titulo: "Calendario Agosto 2026",
+    rangoFechas: "Semana del martes 11 al sábado 15 de agosto",
     publicaciones: [
         {
             tipo: "imagen",
-            diaSemana: "Martes 4 de agosto",
-            imagenes: ["img/4.jpg"],
-            copy: `🏡 ¿Qué es una hipoteca?
+            diaSemana: "Martes 11 de agosto",
+            imagenes: ["img/11.jpg"],
+            copy: `🏡 ¿Qué es una tasación inmobiliaria?
 
-Es el préstamo que te permite comprar una vivienda, usando la misma propiedad como garantía hasta terminar de pagarla.
+Tu propiedad no siempre vale lo que imaginas.
+Una tasación permite conocer su valor comercial real mediante una evaluación profesional.
 
-Conocer cómo funciona te ayudará a tomar mejores decisiones al momento de comprar tu hogar.`
+📊 Es clave para vender, comprar o solicitar un crédito.
+
+💡 Conocer el precio correcto ayuda a tomar mejores decisiones.`
+        },
+
+        {
+            tipo: "video",
+            diaSemana: "Jueves 13 de agosto",
+            imagenes: ["img/13.jpg"],
+            copy: `🌿 Terreno en venta en Mala
+
+📍 Calle Los Pinos, altura del km 85 de la Panamericana Sur.
+
+📐 Área: 2,025 m²
+⚡ Agua, luz y desagüe
+📄 Inscrito en Registros Públicos
+✅ Libre de cargas
+
+💰 USD 225,000 – negociable
+
+📲 Una excelente oportunidad para invertir. ¡Agenda tu visita!`
+        },
+
+        {
+            tipo: "video",
+            diaSemana: "Viernes 14 de agosto",
+            imagenes: ["img/14.jpg"],
+            copy: `🏢 MULTIFAMILIAR EN VENTA | SURCO PUEBLO
+
+💰 USD 255,000
+🔥 4 departamentos actualmente alquilados
+
+Ideal para inversionistas que buscan renta activa desde el primer día.
+
+📐 65 m² de terreno | 240 m² construidos
+🏠 4 departamentos de 2 dormitorios
+🚪 Acceso independiente
+⚡ Medidor de luz por departamento
+📄 Contratos de alquiler legalizados
+✅ Listo para transferir
+
+📍 Excelente ubicación en Surco Pueblo, cerca de comercios y principales vías.
+
+📈 ¿Quieres conocer la rentabilidad anual? Escríbeme.`
         },
 
         {
             tipo: "imagen",
-            diaSemana: "Jueves 6 de agosto",
-            imagenes: ["img/6.png"],
-            copy: `🇵🇪 6 de agosto | Batalla de Junín
+            diaSemana: "Sábado 15 de agosto",
+            imagenes: ["img/15.jpg"],
+            copy: `🌿 CASA DE CAMPO EN VENTA | CIENEGUILLA
 
-Hoy recordamos con orgullo la Batalla de Junín, símbolo de valentía y amor por el Perú.
+💰 USD 340,000
 
-Honremos a quienes lucharon por nuestra libertad y sigamos construyendo un futuro con unión y esperanza.
+Disfruta de tranquilidad, naturaleza y amplios espacios a solo 5 minutos de Mesa de Piedra.
 
-¡Gloria a los héroes de Junín! ❤️🤍❤️`
-        },
+🏡 5 habitaciones
+🛏️ 2 habitaciones con baño privado
+🏊 Piscina + pérgola y zona de parrilla
+🌳 Amplio jardín y área libre
+🚗 Estacionamiento para 8 autos
+✅ Independizada y con documentos en regla
+💰 Sin pago de mantenimiento
 
-        {
-            tipo: "video",
-            diaSemana: "Viernes 7 de agosto",
-            imagenes: ["img/7.jpg"],
-            copy: `🎉 ¡Oficialmente RESERVADA! 🏡
-
-La Casa José María Seguin – San Juan de Miraflores ya tiene minuta firmada y entró a la etapa final de venta. ✅
-
-📍 El cartel ya fue retirado.
-
-¿También quieres vender o alquilar tu propiedad? Nosotros te ayudamos a lograrlo.
-
-📲 Escríbenos y recibe asesoría personalizada.`
-        },
-
-        {
-            tipo: "video",
-            diaSemana: "Sábado 8 de agosto",
-            imagenes: ["img/8.jpg"],
-            copy: `🏡 ¡Alquila en Surco!
-
-📍 Av. Tomás Marsano
-💰 S/ 2,500 | USD 725
-
-✨ 150 m² • 2 dormitorios • 1 baño • Lavandería y patio.
-Se alquila amoblado o sin amoblar.
-
-📲 Agenda tu visita antes de que se alquile.`
+📲 Agenda tu visita y conoce tu próxima casa de campo.`
         }
     ]
 };

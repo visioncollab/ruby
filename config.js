@@ -25,14 +25,20 @@ document.addEventListener("DOMContentLoaded", () => {
     }
 
     function buildCopy(post) {
-        const extras = [];
-        if (CONFIG_SEMANAL.firmaPublicaciones) extras.push(CONFIG_SEMANAL.firmaPublicaciones);
-        if (CONFIG_SEMANAL.whatsappPublicaciones) {
-            const phone = String(CONFIG_SEMANAL.whatsappPublicaciones).replace(/\D/g, "");
-            extras.push(`WhatsApp: https://wa.me/${phone}`);
-        }
-        return extras.length ? `${post.copy}\n.\n.\n${extras.join("\n")}` : post.copy;
+    const extras = [];
+
+    if (CONFIG_SEMANAL.firmaPublicaciones) {
+        extras.push(CONFIG_SEMANAL.firmaPublicaciones);
     }
+
+    if (CONFIG_SEMANAL.whatsappPublicaciones) {
+        extras.push(CONFIG_SEMANAL.whatsappPublicaciones);
+    }
+
+    return extras.length
+        ? `${post.copy}\n.\n.\n${extras.join("\n")}`
+        : post.copy;
+}
 
     function mediaHTML(post, postIndex) {
         const images = Array.isArray(post.imagenes) ? post.imagenes : [];
