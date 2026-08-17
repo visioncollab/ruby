@@ -6,82 +6,70 @@ const CONFIG_SEMANAL = {
     whatsappPublicaciones: "📞 Ruby Sánchez: 999.970.167",
     whatsappDestino: "",
     titulo: "Calendario Agosto 2026",
-    rangoFechas: "Semana del martes 11 al sábado 15 de agosto",
+    rangoFechas: "Semana del martes 18 al sábado 22 de agosto",
     publicaciones: [
         {
             tipo: "imagen",
-            diaSemana: "Martes 11 de agosto",
-            imagenes: ["img/11.jpg"],
-            copy: `🏡 ¿Qué es una tasación inmobiliaria?
+            diaSemana: "Martes 18 de agosto",
+            imagenes: ["img/18.jpg"],
+            copy: `🏡 No solo compras un depa, compras tu tranquilidad.
 
-Tu propiedad no siempre vale lo que imaginas.
-Una tasación permite conocer su valor comercial real mediante una evaluación profesional.
+La ubicación lo es todo. Antes de elegir tu próximo hogar, evalúa bien el entorno. 🌳
 
-📊 Es clave para vender, comprar o solicitar un crédito.
-
-💡 Conocer el precio correcto ayuda a tomar mejores decisiones.`
-        },
-
-        {
-            tipo: "video",
-            diaSemana: "Jueves 13 de agosto",
-            imagenes: ["img/13.jpg"],
-            copy: `🌿 Terreno en venta en Mala
-
-📍 Calle Los Pinos, altura del km 85 de la Panamericana Sur.
-
-📐 Área: 2,025 m²
-⚡ Agua, luz y desagüe
-📄 Inscrito en Registros Públicos
-✅ Libre de cargas
-
-💰 USD 225,000 – negociable
-
-📲 Una excelente oportunidad para invertir. ¡Agenda tu visita!`
-        },
-
-        {
-            tipo: "video",
-            diaSemana: "Viernes 14 de agosto",
-            imagenes: ["img/14.jpg"],
-            copy: `🏢 MULTIFAMILIAR EN VENTA | SURCO PUEBLO
-
-💰 USD 255,000
-🔥 4 departamentos actualmente alquilados
-
-Ideal para inversionistas que buscan renta activa desde el primer día.
-
-📐 65 m² de terreno | 240 m² construidos
-🏠 4 departamentos de 2 dormitorios
-🚪 Acceso independiente
-⚡ Medidor de luz por departamento
-📄 Contratos de alquiler legalizados
-✅ Listo para transferir
-
-📍 Excelente ubicación en Surco Pueblo, cerca de comercios y principales vías.
-
-📈 ¿Quieres conocer la rentabilidad anual? Escríbeme.`
+📍 Fíjate siempre en:
+• Nivel de seguridad y vigilancia del distrito.
+• Iluminación en calles, parques y accesos.
+• Cercanía a vías principales y servicios básicos. 🛣️`
         },
 
         {
             tipo: "imagen",
-            diaSemana: "Sábado 15 de agosto",
-            imagenes: ["img/15.jpg"],
-            copy: `🌿 CASA DE CAMPO EN VENTA | CIENEGUILLA
+            diaSemana: "Jueves 20 de agosto",
+            imagenes: ["img/20.jpg"],
+            copy: `🎉 ¡Oficina en Breña oficialmente vendida! 🔑
 
-💰 USD 340,000
+Detrás de una firma exitosa hay mucho más que números. Esta venta fue un reto que nos recordó el verdadero valor de un buen asesor inmobiliario:
 
-Disfruta de tranquilidad, naturaleza y amplios espacios a solo 5 minutos de Mesa de Piedra.
+📍 Las claves detrás de este cierre:
+• Privacidad absoluta: Manejamos la información más sensible con total prudencia.
+• Manejo situacional: Transformamos los momentos de tensión en acuerdos claros y seguros.
+• Ética profesional: Hacer las cosas bien siempre genera clientes felices y confianza. 🤝
 
-🏡 5 habitaciones
-🛏️ 2 habitaciones con baño privado
-🏊 Piscina + pérgola y zona de parrilla
-🌳 Amplio jardín y área libre
-🚗 Estacionamiento para 8 autos
-✅ Independizada y con documentos en regla
-💰 Sin pago de mantenimiento
+Gracias a nuestros clientes por confiar en nuestro trabajo. ¡Seguimos avanzando! 💪
 
-📲 Agenda tu visita y conoce tu próxima casa de campo.`
+📲 ¿Buscas vender tu propiedad con total seguridad y respaldo? Envíame un DM.`
+        },
+
+        {
+            tipo: "video",
+            diaSemana: "Viernes 21 de agosto",
+            imagenes: ["img/21.jpg"],
+            copy: `🏭 Terreno Industrial en Chilca: US$ 496,000.
+
+Ubicación estratégica a la altura del Km 60 de la Panamericana Sur. 🛣️
+
+📍 Características clave:
+• Área: 5,223 m² (Plano y totalmente cercado). 📏
+• Zonificación I2: Con agua y luz. ⚙️
+• Papeles en regla: 100% saneado en RRPP. 📄
+• Acceso: Avenida afirmada para carga pesada. 🚛
+
+📲 ¿Listo para expandir tu empresa? Escríbeme al DM.`
+        },
+
+        {
+            tipo: "video",
+            diaSemana: "Sábado 22 de agosto",
+            imagenes: ["img/22.jpg"],
+            copy: `🏢 Oportunidad de inversión: Edificio en Surco a US$ 255,000.
+
+Solo Inversionistas
+
+Inmueble en Surco a partir del 2do piso
+Acceso totalmente independiente
+Son 4 pisos, un Depa por piso
+Area de terreno: 65 m²
+Area construida: 240 m² `
         }
     ]
 };
