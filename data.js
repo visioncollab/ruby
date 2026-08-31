@@ -6,55 +6,72 @@ const CONFIG_SEMANAL = {
     whatsappPublicaciones: "📞 Ruby Sánchez: 999.970.167",
     whatsappDestino: "",
     titulo: "Calendario Agosto 2026",
-    rangoFechas: "Semana del martes 25 al sábado 29 de agosto",
+    rangoFechas: "Semana del martes 1 al sábado 5 de setiembre",
     publicaciones: [
         {
             tipo: "imagen",
-            diaSemana: "Martes 25 de agosto",
-            imagenes: ["img/25.png"],
-            copy: `¡Muy feliz de compartir que participaré en el CIMI360 2026 junto a CILA Mujeres! 🌍🏢
+            diaSemana: "Martes 1 de setiembre",
+            imagenes: ["img/1.jpg"],
+            copy: `🏙️ El gran secreto de inversión inmobiliaria en Lima
 
-Ser parte de este gran congreso en Río de Janeiro es una oportunidad increíble para conectar con líderes del sector inmobiliario de toda Latinoamérica. Representar a CILA Mujeres me permite sumar fuerzas para impulsar el liderazgo femenino, generar alianzas internacionales y seguir transformando nuestra industria.
+Compra a buen precio hoy, gana más mañana. Surquillo, Jesús María, Lince y Magdalena están disparando su valor.
 
-¡Nos vemos en Brasil para seguir cruzando fronteras! ✨
-
-🔗 https://cila-mujeres-global-women-s-2026.vercel.app/
-#CIMI360 #CILAMujeres #LiderazgoFemenino #RealEstate`
+Tus 3 ventajas clave:
+💰 Inversión inicial mucho más baja.
+🚀 Plusvalía asegurada a corto plazo.
+🏠 Demanda de inquilinos constante.`
         },
 
         {
             tipo: "imagen",
-            diaSemana: "Jueves 27 de agosto",
-            imagenes: ["img/27.jpg"],
-            copy: `¡El conocimiento no se detiene! 🔥 Así se vivió mi participación en Negocios Legendarios.
+            diaSemana: "Jueves 3 de setiembre",
+            imagenes: ["img/3.jpg"],
+            copy: `🇧🇷 ¡Conectando con las mejores en el Congreso Inmobiliario Latinoamericano en Brasil! 🌎
 
-Los REALTORS capacitados marcamos la diferencia: nos formamos de manera constante para ofrecerte siempre el mejor servicio. ¡Y qué lujo de ponentes tuvimos con Michael Tracy, Rafael Horna y Alex Dey! 🙌
-
-Un domingo increíble cargado de aprendizaje y nuevas herramientas. Ahora toca lo más importante: ponerlo en práctica para ayudarte a vender o alquilar tu propiedad con éxito. 🔑✨`
+Un gusto compartir estrategias con grandes referentes como Estela Casanova (República Dominicana 🇩🇴) y Larissa (Florida, EE. UU. 🇺🇸). Seguimos forjando alianzas internacionales para asegurar las oportunidades más rentables para nuestros clientes. 🚀🏢`
         },
 
         {
             tipo: "video",
-            diaSemana: "Viernes 28 de agosto",
-            imagenes: ["img/28.jpg"],
-            copy: `¡Construye tu casa de campo o proyecto soñado en MALA! 🏡✨
-Vendo terreno de 2,025 m² en zona de gran revalorización, rodeado de naturaleza.
+            diaSemana: "Viernes 4 de setiembre",
+            imagenes: ["img/4.jpg"],
+            copy: `🔑 Alquiler en Surco | Av. Tomás Marsano
+💲 USD 725 (Amoblado o sin amoblar)
 
-💰 Inversión: USD 225,000
-📍 Ubicación: Km 85.5 Panamericana Sur (Calle Los Pinos, sobre pista asfaltada).
-🏖️ A 20 min del Boulevard de Asia y con salida rápida a playas Bujama y Totoritas.
-📐 15m de frente x 135m de fondo (Zonificación RDB).
-💡💧 Cuenta con luz, agua y alumbrado público.
-✅ 100% saneado: Inscrito en Registros Públicos, sin cargas ni gravámenes.`
+Departamento amplio, iluminado y excelente distribución de 150 m². Cerca de comercios y transporte.
+
+✨ Lo que ofrece:
+
+4to piso | 2 habitaciones | 1 baño
+Lavandería y patio pequeño.
+
+💡 Condiciones:
+
+Contrato: 2 de garantía y 1 de adelanto.
+Mantenimiento: S/. 120 (incluye agua/luz áreas comunes y limpieza).
+Servicios: Luz y agua independientes (contómetro).
+Arbitrios: S/. 50 mensuales.
+🚫 No mascotas.
+
+📲 ¡Escríbenos para agendar tu visita!`
         },
 
         {
             tipo: "video",
-            diaSemana: "Sábado 29 de agosto",
-            imagenes: ["img/29.png"],
-            copy: `Este 30 de agosto conmemoramos el Día de Santa Rosa de Lima con un saludo muy especial.
+            diaSemana: "Sábado 5 de setiembre",
+            imagenes: ["img/5.jpg"],
+            copy: `🌴 ¡Venta de Depa en Playa Punta Hermosa! (Km 40)
+💲 USD 198,000 (¡No paga alcabala!)
 
-Celebramos a nuestra patrona recordando que las grandes obras y los proyectos con propósito nacen del esfuerzo diario y la convicción. ¿Cómo aprovechas este día feriado? ¡Te leemos! 👇`
+Estrena este último flat exclusivo con ascensor en edificio de solo 12 departamentos. Ubicación privilegiada en Av. Punta Hermosa cuadra 9, a pasos del Malecón Norte y 5 min del Club Náutico.
+
+✨ Características:
+
+2do Piso con ascensor.
+3 dormitorios (la principal con baño incorporado).
+Sala con balcón y vista exterior.
+Cocina abierta con excelentes acabados.
+Lavandería cerrada con mampara.`
         }
     ]
 };
