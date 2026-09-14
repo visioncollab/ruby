@@ -6,69 +6,81 @@ const CONFIG_SEMANAL = {
     whatsappPublicaciones: "📞 Ruby Sánchez: 999.970.167",
     whatsappDestino: "",
     titulo: "Calendario Agosto 2026",
-    rangoFechas: "Semana del lunes 7 al sábado 12 de setiembre",
+    rangoFechas: "Semana del martes 15 al sábado 19 de setiembre",
     publicaciones: [
         {
             tipo: "imagen",
-            diaSemana: "Lunes 7 de setiembre",
-            imagenes: ["img/7.png"],
-            copy: `7 de Setiembre: Día del Agente Inmobiliario
-🗝️🎉 ¡Feliz día a quienes vivimos entre citas y recorridos constantes! Nuestra magia es conectar el espacio correcto con la persona indicada. ¡Un abrazo a toda la comunidad inmobiliaria, a seguir abriendo puertas!`
+            diaSemana: "Martes 15 de setiembre",
+            imagenes: ["img/15.jpg"],
+            copy: `🌱 ¿Terreno o inversión estancada?
+
+Comprar un terreno puede ser una gran oportunidad, pero primero revisa:
+
+📍 Ubicación
+🏗️ Qué se puede construir
+📄 Situación legal
+🚧 Servicios disponibles
+📈 Desarrollo de la zona
+
+Un terreno puede esperar.
+Una mala decisión, cuesta.`
         },
 
         {
             tipo: "video",
-            diaSemana: "Jueves 10 de setiembre",
-            imagenes: ["img/10.jpg"],
-            copy: `🏭 ¡Terreno Industrial I2 estratégico en Chilca!
+            diaSemana: "Jueves 17 de setiembre",
+            imagenes: ["img/17.jpg"],
+            copy: `🏡 Vive Surco con más espacio
 
-Ubicación clave a la altura del km 60 de la Panamericana Sur. El espacio ideal y con el acceso perfecto para potenciar tu operación:
+Departamento de 150 m² en Tomás Marsano, ideal si buscas amplitud y buena ubicación.
 
-📐 5,223 m² (terreno plano, independiente y totalmente cercado).
-⚡ Servicios listos: cuenta con medidor de luz y agua potable.
-🚚 Sobre avenida de alto tránsito, ideal para carga pesada constante.
-📜 100% saneado e inscrito en Registros Públicos (cero cargas).
+🛏️ 2 dormitorios
+🛋️ Ambientes amplios
+🧺 Lavandería + patio
+🪑 Amoblado o sin amoblar
 
-💰 Inversión: USD 496,000
-📲 ¡Escríbeme para darte todos los detalles y agendar una visita!`
-        },
+💰 S/ 2,500 mensuales
 
-        {
-            tipo: "video",
-            diaSemana: "Viernes 11 de setiembre",
-            imagenes: ["img/11.jpg"],
-            copy: `☀️ ¡Tu propia casa de campo con piscina en Cieneguilla! 🌳
-
-Ubicada estratégicamente en la 3era Etapa (a solo 5 min de Mesa de Piedra), esta propiedad es el escape perfecto para conectar con la naturaleza sin perder comodidad.
-
-Disfruta de espacios diseñados para compartir y relajarte:
-
-🏊‍♂️ Área social de ensueño: Piscina, pérgola y zona de parrilla lista para tus reuniones.
-🛏️ 5 amplias habitaciones: 3 de ellas en el primer piso, perfectas para evitar escaleras.
-🚗 Súper estacionamiento: Capacidad para hasta 8 autos.
-🌱 Mucho espacio libre: Gran jardín disponible para materializar nuevas ideas o futuras construcciones.
-🏡 100% independiente: No paga mantenimiento y tiene los papeles totalmente en regla.
-
-💰 Inversión: USD 340,000
-📲 ¡Escríbeme para darte más detalles y agendar tu visita!`
+📲 Escríbeme y agenda tu visita.`
         },
 
         {
             tipo: "imagen",
-            diaSemana: "Sábado 12 de setiembre",
-            imagenes: ["img/12.jpg"],
-            copy: `☀️ ¡Gran terreno de 2,025 m² en Mala para tu próximo proyecto!
+            diaSemana: "Viernes 18 de setiembre",
+            imagenes: ["img/18.jpg"],
+            copy: `💼 Tu oficina con vitrina en Tomás Marsano
 
-Clima cálido todo el año, a solo 20 minutos del Boulevard de Asia. Ideal para construir una casa de campo, club campestre o proyecto inmobiliario. 🌳
+Alquila un espacio estratégico en Surco, ideal para trabajar y ganar visibilidad.
 
-📍 Ubicación estratégica: Km 85.5 de la Panamericana Sur (sobre pista asfaltada).
-📐 Dimensiones: 2,025 m² con zonificación Residencial (RDB).
-🏖️ Accesibilidad: Salida rápida a playas como Bujama y Totoritas.
-💡 Servicios: La zona cuenta con agua, luz y alumbrado público.
-📜 Documentación: 100% saneado, en Registros Públicos y sin cargas.
+✅ 3 ambientes versátiles
+✅ Kitchenette + baño completo
+✅ Ventanas antirruido
+✅ Vista a Av. Tomás Marsano
+📣 Espacio para anuncio publicitario frente a la Estación Ayacucho
 
-💰 Inversión: USD 225,000
-📲 ¡Escríbeme para agendar tu visita!`
+💰 Alquiler: S/ 3,400
+
+📲 Escríbeme para más información y agenda tu visita.`
+        },
+
+        {
+            tipo: "video",
+            diaSemana: "Sábado 19 de setiembre",
+            imagenes: ["img/19.jpg"],
+            copy: `🏢 Un edificio listo para grandes proyectos
+
+En alquiler en SJM, ideal para institutos, centros educativos o capacitación.
+
+📐 854 m² construidos
+🏢 5 pisos + azotea
+🚪 22 ambientes
+🚻 7 baños
+⚡ Luz trifásica
+🚗 2 estacionamientos
+
+💰 USD 8,500
+
+📲 Escríbeme y agenda una visita.`
         }
     ]
 };
