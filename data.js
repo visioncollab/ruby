@@ -5,82 +5,83 @@ const CONFIG_SEMANAL = {
     firmaPublicaciones: "Contáctame y disfruta de tu nueva casa 🙌",
     whatsappPublicaciones: "📞 Ruby Sánchez: 999.970.167",
     whatsappDestino: "",
-    titulo: "Calendario Agosto 2026",
-    rangoFechas: "Semana del martes 15 al sábado 19 de setiembre",
+    titulo: "Calendario Setiembre 2026",
+    rangoFechas: "Semana del martes 22 al sábado 26 de setiembre",
     publicaciones: [
         {
             tipo: "imagen",
-            diaSemana: "Martes 15 de setiembre",
-            imagenes: ["img/15.jpg"],
-            copy: `🌱 ¿Terreno o inversión estancada?
+            diaSemana: "Martes 22 de setiembre",
+            imagenes: ["img/22.jpg"],
+            copy: `📈 ¿Cómo saber si una propiedad es buena inversión? 💰
 
-Comprar un terreno puede ser una gran oportunidad, pero primero revisa:
+No te dejes llevar solo por:
 
-📍 Ubicación
-🏗️ Qué se puede construir
-📄 Situación legal
-🚧 Servicios disponibles
-📈 Desarrollo de la zona
+❌ Se ve bonita.
+❌ Está barata.
+❌ Está en zona exclusiva.
 
-Un terreno puede esperar.
-Una mala decisión, cuesta.`
-        },
+Analiza lo importante:
 
-        {
-            tipo: "video",
-            diaSemana: "Jueves 17 de setiembre",
-            imagenes: ["img/17.jpg"],
-            copy: `🏡 Vive Surco con más espacio
+📊 Valorización: Potencial de crecimiento a futuro.
+💵 Alquiler: Retorno estimado mensual.
+📍 Demanda: Alta rotación en la zona.
+💸 Gastos: Mantenimiento y costos ocultos.
+🔄 Liquidez: Facilidad para revender.
 
-Departamento de 150 m² en Tomás Marsano, ideal si buscas amplitud y buena ubicación.
-
-🛏️ 2 dormitorios
-🛋️ Ambientes amplios
-🧺 Lavandería + patio
-🪑 Amoblado o sin amoblar
-
-💰 S/ 2,500 mensuales
-
-📲 Escríbeme y agenda tu visita.`
+Invertir no es comprar. Es comprar con estrategia. 🧠📲`
         },
 
         {
             tipo: "imagen",
-            diaSemana: "Viernes 18 de setiembre",
-            imagenes: ["img/18.jpg"],
-            copy: `💼 Tu oficina con vitrina en Tomás Marsano
+            diaSemana: "Jueves 24 de setiembre",
+            imagenes: ["img/24.jpg"],
+            copy: `🌴 VENDO TERRENO EN BUJAMA 🌊
 
-Alquila un espacio estratégico en Surco, ideal para trabajar y ganar visibilidad.
+💵 Precio: USD 50,000
+📐 Área: 147 m² (Mz. Y, Lote 8)
+📍 Ubicación: Condominio Alto Bujama (Km 90, playa Bujama, Mala).
 
-✅ 3 ambientes versátiles
-✅ Kitchenette + baño completo
-✅ Ventanas antirruido
-✅ Vista a Av. Tomás Marsano
-📣 Espacio para anuncio publicitario frente a la Estación Ayacucho
+Listo para construir la casa de tus sueños con servicios completos: luz, agua y desagüe. 🏗️✨
 
-💰 Alquiler: S/ 3,400
+Disfruta de las áreas comunes del condominio:
 
-📲 Escríbeme para más información y agenda tu visita.`
+🏊 Piscina
+🌿 Jardines
+🏛️ Hall de ingreso
+🛠️ Mantenimiento: S/ 200 (todo operativo y muy bien cuidado).
+
+📲 Escríbeme al DM para más detalles y agendar una visita.`
         },
 
         {
             tipo: "video",
-            diaSemana: "Sábado 19 de setiembre",
-            imagenes: ["img/19.jpg"],
-            copy: `🏢 Un edificio listo para grandes proyectos
+            diaSemana: "Viernes 25 de setiembre",
+            imagenes: ["img/25.jpg"],
+            copy: `🏢 DEPA CON VISTA A PARQUE EN COMAS 🌳
 
-En alquiler en SJM, ideal para institutos, centros educativos o capacitación.
+💵 Precio: USD 48,000 | 📐 Área: 57 m² (Piso 16, último piso)
+📍 Ubicación: Condominio Los Laureles (Cerca a Av. Universitaria y Retablo).
 
-📐 854 m² construidos
-🏢 5 pisos + azotea
-🚪 22 ambientes
-🚻 7 baños
-⚡ Luz trifásica
-🚗 2 estacionamientos
+🛏️ 3 dormitorios y pisos laminados.
+🛋️ Sala-comedor con vista al parque interno.
+🍳 Cocina abierta con lavandería integrada.
+🛗 2 ascensores y seguridad 24/7.`
+        },
 
-💰 USD 8,500
+        {
+            tipo: "video",
+            diaSemana: "Sábado 26 de setiembre",
+            imagenes: ["img/26.jpg"],
+            copy: `🏡 VENDO CASA EN CARABAYLLO
 
-📲 Escríbeme y agenda una visita.`
+💵 Precio: USD 110,000
+📍 Ubicación: Calle 24, Urb. Santo Domingo Etapa 4.
+
+🛏️ 3 dormitorios y 1 baño completo.
+🛋️ Sala-comedor con piso de parquet.
+🍳 Cocina amplia con espacio para comedor de diario.
+🌿 Patio interno ideal para reuniones y zona BBQ.
+🚗 Cochera privada.`
         }
     ]
 };
