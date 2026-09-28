@@ -5,83 +5,89 @@ const CONFIG_SEMANAL = {
     firmaPublicaciones: "Contáctame y disfruta de tu nueva casa 🙌",
     whatsappPublicaciones: "📞 Ruby Sánchez: 999.970.167",
     whatsappDestino: "",
-    titulo: "Calendario Setiembre 2026",
-    rangoFechas: "Semana del martes 22 al sábado 26 de setiembre",
+    titulo: "Calendario Setiembre - Octubre 2026",
+    rangoFechas: "Semana del martes 29 al sábado 03 de octubre",
     publicaciones: [
         {
             tipo: "imagen",
-            diaSemana: "Martes 22 de setiembre",
-            imagenes: ["img/22.jpg"],
-            copy: `📈 ¿Cómo saber si una propiedad es buena inversión? 💰
+            diaSemana: "Martes 29 de setiembre",
+            imagenes: ["img/29.jpg"],
+            copy: `📈 ¿Qué es la valorización de una propiedad?
 
-No te dejes llevar solo por:
+Compraste hoy y con el tiempo vale más. ¿Magia? 🪄 No. Esto depende de:
 
-❌ Se ve bonita.
-❌ Está barata.
-❌ Está en zona exclusiva.
+📍 Ubicación
+🏗️ Nueva infraestructura
+🏙️ Desarrollo urbano
+📈 Aumento de la demanda
 
-Analiza lo importante:
+Por eso, la ubicación sigue siendo la clave de toda inversión inmobiliaria. 💡`
+        },
 
-📊 Valorización: Potencial de crecimiento a futuro.
-💵 Alquiler: Retorno estimado mensual.
-📍 Demanda: Alta rotación en la zona.
-💸 Gastos: Mantenimiento y costos ocultos.
-🔄 Liquidez: Facilidad para revender.
+        {
+            tipo: "video",
+            diaSemana: "Jueves 01 de octubre",
+            imagenes: ["img/1.jpg"],
+            copy: `🌳 Tu refugio de campo en Cieneguilla
 
-Invertir no es comprar. Es comprar con estrategia. 🧠📲`
+A 5 min de Mesa de Piedra. Sol, naturaleza y desconexión total para tu familia.
+
+💰 USD 340,000
+
+¿Qué la hace especial?
+🏊‍♂️ Piscina, pérgola y zona BBQ
+🛏️ 5 dormitorios (3 en el primer piso)
+🍳 Cocina amplia y muy iluminada
+🚗 Espacio para 8 autos
+🌱 Jardín libre para ampliar o construir
+✅ Cero mantenimiento y papeles 100% en regla
+
+Tu espacio ideal, listo para transferir. 💡
+
+📲 Escríbeme y agendamos una visita.`
+        },
+
+        {
+            tipo: "video",
+            diaSemana: "Viernes 02 de octubre",
+            imagenes: ["img/2.jpg"],
+            copy: `📍 Terreno en Mala (2,025 m²) – A 20 min del Boulevard de Asia
+
+Sol todo el año. Ideal para casa de campo, proyecto inmobiliario o agrícola.
+
+💰 USD 225,000
+
+¿Por qué invertir aquí?
+📐 2,025 m² listos para construir (15x135m).
+🛣️ Conexión rápida a la Panamericana Sur y playas.
+💡 Cuenta con agua, luz y pista asfaltada.
+📈 Zona de alta revalorización (rodeado de casas de campo).
+✅ Papeles 100% en regla, listo para transferir.
+
+La tierra siempre es una inversión segura. 💡
+
+📲 Escríbeme y agendamos una visita.`
         },
 
         {
             tipo: "imagen",
-            diaSemana: "Jueves 24 de setiembre",
-            imagenes: ["img/24.jpg"],
-            copy: `🌴 VENDO TERRENO EN BUJAMA 🌊
+            diaSemana: "Sábado 03 de octubre",
+            imagenes: ["img/3.jpg"],
+            copy: `🌊 Tu departamento en la playa: Punta Hermosa (Km 40)
 
-💵 Precio: USD 50,000
-📐 Área: 147 m² (Mz. Y, Lote 8)
-📍 Ubicación: Condominio Alto Bujama (Km 90, playa Bujama, Mala).
+Último flat en un edificio súper exclusivo de solo 12 departamentos. ¡Ideal para disfrutar todo el año o para inversión!
 
-Listo para construir la casa de tus sueños con servicios completos: luz, agua y desagüe. 🏗️✨
+💰 USD 198,000 (¡No paga impuesto de Alcabala!)
 
-Disfruta de las áreas comunes del condominio:
+¿Qué lo hace ideal?
+🛏️ 3 dormitorios (principal con baño).
+🛋️ Sala con balcón y cocina abierta.
+🚗 Cochera doble lineal incluida.
+🏢 2do piso con ascensor.
+📍 Cerca al Malecón Norte y a 5 min del Club Náutico.
+💧 Agua potable todo el año (perfecto para vivir no solo en verano).
 
-🏊 Piscina
-🌿 Jardines
-🏛️ Hall de ingreso
-🛠️ Mantenimiento: S/ 200 (todo operativo y muy bien cuidado).
-
-📲 Escríbeme al DM para más detalles y agendar una visita.`
-        },
-
-        {
-            tipo: "video",
-            diaSemana: "Viernes 25 de setiembre",
-            imagenes: ["img/25.jpg"],
-            copy: `🏢 DEPA CON VISTA A PARQUE EN COMAS 🌳
-
-💵 Precio: USD 48,000 | 📐 Área: 57 m² (Piso 16, último piso)
-📍 Ubicación: Condominio Los Laureles (Cerca a Av. Universitaria y Retablo).
-
-🛏️ 3 dormitorios y pisos laminados.
-🛋️ Sala-comedor con vista al parque interno.
-🍳 Cocina abierta con lavandería integrada.
-🛗 2 ascensores y seguridad 24/7.`
-        },
-
-        {
-            tipo: "video",
-            diaSemana: "Sábado 26 de setiembre",
-            imagenes: ["img/26.jpg"],
-            copy: `🏡 VENDO CASA EN CARABAYLLO
-
-💵 Precio: USD 110,000
-📍 Ubicación: Calle 24, Urb. Santo Domingo Etapa 4.
-
-🛏️ 3 dormitorios y 1 baño completo.
-🛋️ Sala-comedor con piso de parquet.
-🍳 Cocina amplia con espacio para comedor de diario.
-🌿 Patio interno ideal para reuniones y zona BBQ.
-🚗 Cochera privada.`
+Invertir en la playa es asegurar tu calidad de vida. 💡`
         }
     ]
 };
