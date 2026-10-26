@@ -6,86 +6,77 @@ const CONFIG_SEMANAL = {
     whatsappPublicaciones: "📞 Ruby Sánchez: 999.970.167",
     whatsappDestino: "",
     titulo: "Calendario Octubre 2026",
-    rangoFechas: "Semana del martes 20 al sábado 24 de octubre",
+    rangoFechas: "Semana del martes 27 al sábado 31 de octubre",
     publicaciones: [
         {
             tipo: "imagen",
-            diaSemana: "Martes 20 de octubre",
-            imagenes: ["img/20.jpg"],
-            copy: `🏠 ¿Comprar para vivir o para invertir?
+            diaSemana: "Martes 27 de octubre",
+            imagenes: ["img/27.jpg"],
+            copy: `🚦 ¿Una nueva obra aumenta el valor de tu propiedad?
 
-Parece la misma decisión, pero la estrategia cambia.
+Una estación, avenida o centro comercial puede impulsar la valorización, pero no la garantiza.
 
-❤️ Para vivir: Buscas comodidad, espacio y ubicación.
-💰 Para invertir: Analizas rentabilidad, valorización y demanda.
+Antes de invertir, evalúa:
 
-Primero define tu objetivo, luego buscamos la propiedad. 💡
+📍 Beneficios e impacto en la zona.
+⏳ Plazos de ejecución.
+🏗️ Alcance del proyecto.
+📈 Demanda inmobiliaria local.
+💡 Las buenas inversiones se investigan, no se adivinan.`
+        },
 
-📩 Escríbeme y encontremos la opción perfecta para ti. 👇`
+        {
+            tipo: "video",
+            diaSemana: "Jueves 29 de octubre",
+            imagenes: ["img/29.jpg"],
+            copy: `🏡 ¡TERRENO EN VENTA EN MALA!
+
+📍 Km 85.5 de la Panamericana Sur, a 20 minutos del Boulevard de Asia.
+
+💰 Precio: USD 225,000
+
+📐 Características:
+✅ Área total: 2,025 m².
+✅ Frente: 15 m | Fondo: 135 m.
+✅ Zonificación residencial (RDB).
+✅ Acceso por pista asfaltada.
+✅ Zona con servicios básicos.
+
+📄 Inscrito en Registros Públicos, documentación en regla y libre de cargas y gravámenes.
+
+🌿 Ideal para tu próxima casa de campo o proyecto residencial.
+
+📲 ¡Contáctame y agenda una visita!`
+        },
+
+        {
+            tipo: "video",
+            diaSemana: "Viernes 30 de octubre",
+            imagenes: ["img/30.jpg"],
+            copy: `🏢 ¡EDIFICIO COMERCIAL EN ALQUILER EN SJM!
+
+📍 A pocos pasos de la Municipalidad de San Juan de Miraflores.
+
+💰 Alquiler: USD 7,000
+
+📐 Características:
+✅ 5 pisos + azotea.
+✅ Área construida: 854 m².
+✅ 22 ambientes y 7 baños.
+✅ Luz trifásica.
+✅ 2 estacionamientos al frente.
+✅ Zonificación comercial (CZ).
+
+🏢 Ideal para oficinas, institutos y servicios profesionales, según compatibilidad de uso.
+
+📲 ¡Agenda tu visita!`
         },
 
         {
             tipo: "imagen",
-            diaSemana: "Jueves 22 de octubre",
-            imagenes: ["img/22.jpg"],
-            copy: `🏢 Alquiler de Oficina / Local en San Luis
-💰 S/ 1,900
-
-📍 Ubicación estratégica: Av. Agustín de la Rosa Toro 858 (a pasos de la Av. Canadá).
-
-¿Qué te ofrece?
-✅ 3 ambientes amplios y muy ventilados.
-✅ 2 baños (1 completo + 1 auxiliar).
-✅ Área de mini cocina y patio de aseo.
-
-✨ Súper versátil: Se adapta a tu negocio. Ideal para oficinas, consultorios, spas, academias o almacén.
-
-📩 Escríbeme y agendemos una visita hoy mismo. 👇`
-        },
-
-        {
-            tipo: "video",
-            diaSemana: "Viernes 23 de octubre",
-            imagenes: ["img/23.jpg"],
-            copy: `🏢 Alquiler de Departamento en Surco Pueblo (2do Piso)
-💰 S/ 1,600
-
-📍 Ubicación ideal: A solo una cuadra de Plaza Vea Ayacucho y muy cerca de la Plaza Mayor. Con salida rápida a las avenidas Ayacucho, Mariscal Castilla y Tomás Marsano.
-
-¿Qué te ofrece?
-✅ 1 dormitorio principal.
-✅ 1 ambiente pequeño (ideal para escritorio u oficina).
-✅ 1 baño completo.
-✅ Cocina con mesada y espacio de comedor.
-✨ Extras: Piso cerámico, vista a la ciudad e intercomunicador.
-
-Condiciones:
-📌 Modalidad 1x1 (1 de adelanto y 1 de garantía).
-📌 Contrato mínimo de 6 meses.
-📌 Buen historial crediticio y sustento de ingresos.
-🚫 No se aceptan mascotas (no negociable).
-
-📩 Escríbeme para agendar una visita. 👇`
-        },
-
-        {
-            tipo: "video",
-            diaSemana: "Sábado 24 de octubre",
-            imagenes: ["img/24.jpg"],
-            copy: `🏢 Alquiler Dúplex en Surco
-💰 S/ 2,750
-
-📍 Ubicación estratégica: Av. Tomás Marsano Cdra. 37. Excelente conectividad, a un paso de transporte, servicios y centros comerciales.
-
-¿Qué te ofrece?
-✅ 3 dormitorios (el principal con baño privado).
-✅ Sala-comedor integrada a una cocina de concepto abierto.
-✅ Área de lavandería independiente y patio tendal (¡súper práctico!).
-✨ Extras: Ubicado en el 3er piso, con excelente iluminación y diseño moderno.
-
-Condiciones:
-📌 Contrato mínimo de 1 año.
-🚫 No se aceptan mascotas.`
+            diaSemana: "Sábado 31 de octubre",
+            imagenes: ["img/31.jpg"],
+            copy: `❤️ Hay canciones que nunca se olvidan porque forman parte de nuestra historia. Hoy rendimos homenaje a la música que nos une. ¡Feliz Día de la Canción Criolla!`
         }
     ]
 };
