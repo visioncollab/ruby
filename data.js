@@ -5,78 +5,91 @@ const CONFIG_SEMANAL = {
     firmaPublicaciones: "Contáctame y disfruta de tu nueva casa 🙌",
     whatsappPublicaciones: "📞 Ruby Sánchez: 999.970.167",
     whatsappDestino: "",
-    titulo: "Calendario Octubre 2026",
-    rangoFechas: "Semana del martes 27 al sábado 31 de octubre",
+    titulo: "Calendario Noviembre 2026",
+    rangoFechas: "Semana del martes 03 al sábado 07 de noviembre",
     publicaciones: [
         {
             tipo: "imagen",
-            diaSemana: "Martes 27 de octubre",
-            imagenes: ["img/27.jpg"],
-            copy: `🚦 ¿Una nueva obra aumenta el valor de tu propiedad?
+            diaSemana: "Martes 3 de noviembre",
+            imagenes: ["img/3.jpg"],
+            copy: `¿El precio de las viviendas sube en Lima? 📊
 
-Una estación, avenida o centro comercial puede impulsar la valorización, pero no la garantiza.
+Depende de dónde mires. No todos los distritos se mueven igual: mientras una zona gana valor, otra se estabiliza.
 
-Antes de invertir, evalúa:
+Antes de comprar o invertir, evalúa esto:
 
-📍 Beneficios e impacto en la zona.
-⏳ Plazos de ejecución.
-🏗️ Alcance del proyecto.
-📈 Demanda inmobiliaria local.
-💡 Las buenas inversiones se investigan, no se adivinan.`
+📍 Zona: Distrito y entorno directo.
+🏠 Tipo: Depa, casa o terreno.
+💰 Precio por m²: El valor real del área.
+📈 Demanda: Flujo de compradores o inquilinos.
+
+Los datos sirven para decidir bien, no para llenar gráficos. 🧠🔑`
         },
 
         {
             tipo: "video",
-            diaSemana: "Jueves 29 de octubre",
-            imagenes: ["img/29.jpg"],
-            copy: `🏡 ¡TERRENO EN VENTA EN MALA!
+            diaSemana: "Jueves 5 de noviembre",
+            imagenes: ["img/5.jpg"],
+            copy: `🏢 ALQUILER DEPA AMOBLADO EN SURCO - CAMINOS DEL INCA
+💰 S/ 3,800
 
-📍 Km 85.5 de la Panamericana Sur, a 20 minutos del Boulevard de Asia.
+Depa súper silencioso, iluminado y listo para mudarte.
 
-💰 Precio: USD 225,000
+✨ Detalles clave (64 m² - Piso 3 interior):
+🛋️ Sala-comedor amoblada con estilo.
+🍳 Cocina americana equipada + gas natural.
+🛏️ 2 dormitorios con closet | 🚿 1 baño.
+🧺 Lavadora instalada.
+🚗 1 cochera techada fácil de maniobrar.
 
-📐 Características:
-✅ Área total: 2,025 m².
-✅ Frente: 15 m | Fondo: 135 m.
-✅ Zonificación residencial (RDB).
-✅ Acceso por pista asfaltada.
-✅ Zona con servicios básicos.
+🏙️ Edificio & Áreas comunes:
+🔥 Rooftop con parrilla (zonas abierta y techada).
+♿ 100% accesible para silla de ruedas.
+🛡️ Seguridad 24/7 y cámaras de vigilancia.
 
-📄 Inscrito en Registros Públicos, documentación en regla y libre de cargas y gravámenes.
-
-🌿 Ideal para tu próxima casa de campo o proyecto residencial.
-
-📲 ¡Contáctame y agenda una visita!`
+📩 Escríbeme al MD para ver el video y agendar tu visita.`
         },
 
         {
             tipo: "video",
-            diaSemana: "Viernes 30 de octubre",
-            imagenes: ["img/30.jpg"],
-            copy: `🏢 ¡EDIFICIO COMERCIAL EN ALQUILER EN SJM!
+            diaSemana: "Viernes 6 de noviembre",
+            imagenes: ["img/6.jpg"],
+            copy: `🏢 ALQUILER DE OFICINA / LOCAL EN SAN LUIS
+💰 S/ 1,900
 
-📍 A pocos pasos de la Municipalidad de San Juan de Miraflores.
+Ubicación estratégica y comercial para hacer crecer tu negocio.
 
-💰 Alquiler: USD 7,000
+📍 Ubicación: Av. Agustín de la Rosa Toro 858 (a pasos de Av. Canadá).
 
-📐 Características:
-✅ 5 pisos + azotea.
-✅ Área construida: 854 m².
-✅ 22 ambientes y 7 baños.
-✅ Luz trifásica.
-✅ 2 estacionamientos al frente.
-✅ Zonificación comercial (CZ).
+✨ Características:
+💼 3 ambientes amplios e iluminados.
+🚿 1 baño completo con ducha + 1 baño auxiliar.
+☕ Área para mini cocina y patio de aseo.
 
-🏢 Ideal para oficinas, institutos y servicios profesionales, según compatibilidad de uso.
+Ideal para oficinas administrativas, consultorios o estudio profesional.
 
-📲 ¡Agenda tu visita!`
+📩 Escríbeme al MD para enviarte todos los detalles y coordinar una visita.`
         },
 
         {
             tipo: "imagen",
-            diaSemana: "Sábado 31 de octubre",
-            imagenes: ["img/31.jpg"],
-            copy: `❤️ Hay canciones que nunca se olvidan porque forman parte de nuestra historia. Hoy rendimos homenaje a la música que nos une. ¡Feliz Día de la Canción Criolla!`
+            diaSemana: "Sábado 7 de noviembre",
+            imagenes: ["img/7.jpg"],
+            copy: `🏢 ALQUILER DE OFICINA EN SURCO - TOMÁS MARSANO
+
+💰 USD 1,000
+
+Ubicación estratégica y alta visibilidad para tu empresa.
+
+📍 Ubicación: 2do piso, a pasos de la Estación Ayacucho y del Óvalo Higuereta.
+
+✨ Detalles:
+💼 3 ambientes versátiles.
+🔕 Ventanas antiruido.
+📢 Espacio exterior disponible para tu cartel publicitario.
+☕ Kitchenette + 🚿 1 baño completo.
+
+📩 Escríbeme al MD para agendar una visita.`
         }
     ]
 };
