@@ -6,90 +6,79 @@ const CONFIG_SEMANAL = {
     whatsappPublicaciones: "📞 Ruby Sánchez: 999.970.167",
     whatsappDestino: "",
     titulo: "Calendario Noviembre 2026",
-    rangoFechas: "Semana del martes 03 al sábado 07 de noviembre",
+    rangoFechas: "Semana del martes 10 al sábado 14 de noviembre",
     publicaciones: [
         {
             tipo: "imagen",
-            diaSemana: "Martes 3 de noviembre",
-            imagenes: ["img/3.jpg"],
-            copy: `¿El precio de las viviendas sube en Lima? 📊
+            diaSemana: "Martes 10 de noviembre",
+            imagenes: ["img/10.jpg"],
+            copy: `🏡 ¡ALQUILADO EN SURCO! 🔑
 
-Depende de dónde mires. No todos los distritos se mueven igual: mientras una zona gana valor, otra se estabiliza.
+Este hermoso dúplex en Av. Tomás Marsano ya tiene nuevos inquilinos. ✨
 
-Antes de comprar o invertir, evalúa esto:
+¡Gracias por la confianza depositada en este proceso!
 
-📍 Zona: Distrito y entorno directo.
-🏠 Tipo: Depa, casa o terreno.
-💰 Precio por m²: El valor real del área.
-📈 Demanda: Flujo de compradores o inquilinos.
-
-Los datos sirven para decidir bien, no para llenar gráficos. 🧠🔑`
+💬 ¿Tienes una propiedad que deseas alquilar? Conversemos y encontremos al inquilino ideal para ti.`
         },
 
         {
             tipo: "video",
-            diaSemana: "Jueves 5 de noviembre",
-            imagenes: ["img/5.jpg"],
-            copy: `🏢 ALQUILER DEPA AMOBLADO EN SURCO - CAMINOS DEL INCA
-💰 S/ 3,800
+            diaSemana: "Jueves 12 de noviembre",
+            imagenes: ["img/12.jpg"],
+            copy: `🏡 ¡BAJÓ DE PRECIO! TERRENO DE 2,025 m² EN MALA
 
-Depa súper silencioso, iluminado y listo para mudarte.
+🌿 El espacio ideal para tu casa de campo o próximo proyecto inmobiliario, en una zona de clima cálido y rodeada de naturaleza.
 
-✨ Detalles clave (64 m² - Piso 3 interior):
-🛋️ Sala-comedor amoblada con estilo.
-🍳 Cocina americana equipada + gas natural.
-🛏️ 2 dormitorios con closet | 🚿 1 baño.
-🧺 Lavadora instalada.
-🚗 1 cochera techada fácil de maniobrar.
+📍 Mala – Km 85.5 de la Panamericana Sur
+💰 Nuevo precio: USD 215,000
 
-🏙️ Edificio & Áreas comunes:
-🔥 Rooftop con parrilla (zonas abierta y techada).
-♿ 100% accesible para silla de ruedas.
-🛡️ Seguridad 24/7 y cámaras de vigilancia.
+✅ Terreno de 2,025 m² (15 m de frente x 135 m de fondo).
+✅ A solo 20 minutos del Boulevard de Asia.
+✅ Acceso por pista asfaltada.
+✅ Zonificación residencial de densidad baja (RDB).
+✅ Servicios de agua y luz en la zona.
+✅ Inscrito en Registros Públicos, sin cargas ni gravámenes.
 
-📩 Escríbeme al MD para ver el video y agendar tu visita.`
-        },
-
-        {
-            tipo: "video",
-            diaSemana: "Viernes 6 de noviembre",
-            imagenes: ["img/6.jpg"],
-            copy: `🏢 ALQUILER DE OFICINA / LOCAL EN SAN LUIS
-💰 S/ 1,900
-
-Ubicación estratégica y comercial para hacer crecer tu negocio.
-
-📍 Ubicación: Av. Agustín de la Rosa Toro 858 (a pasos de Av. Canadá).
-
-✨ Características:
-💼 3 ambientes amplios e iluminados.
-🚿 1 baño completo con ducha + 1 baño auxiliar.
-☕ Área para mini cocina y patio de aseo.
-
-Ideal para oficinas administrativas, consultorios o estudio profesional.
-
-📩 Escríbeme al MD para enviarte todos los detalles y coordinar una visita.`
+✨ ¡Una oportunidad para invertir y desarrollar tu próximo proyecto!`
         },
 
         {
             tipo: "imagen",
-            diaSemana: "Sábado 7 de noviembre",
-            imagenes: ["img/7.jpg"],
-            copy: `🏢 ALQUILER DE OFICINA EN SURCO - TOMÁS MARSANO
+            diaSemana: "Viernes 13 de noviembre",
+            imagenes: ["img/13.jpg"],
+            copy: `🏡🤝 ¡LAS MEJORES OPORTUNIDADES TAMBIÉN SE CONSTRUYEN EN EQUIPO!
 
-💰 USD 1,000
+Estuvimos en Cieneguilla junto a mi colega Merlyn (@mr.ainmbiliarios), compartiendo nuestras propiedades en venta y sumando esfuerzos para conectar a más compradores con su próxima inversión.
 
-Ubicación estratégica y alta visibilidad para tu empresa.
+Porque en el mundo inmobiliario, colaborar nos permite llegar más lejos y ofrecer mejores oportunidades a nuestros clientes.
 
-📍 Ubicación: 2do piso, a pasos de la Estación Ayacucho y del Óvalo Higuereta.
+📍 ¿Buscas una propiedad en Cieneguilla o estás pensando en vender la tuya?
 
-✨ Detalles:
-💼 3 ambientes versátiles.
-🔕 Ventanas antiruido.
-📢 Espacio exterior disponible para tu cartel publicitario.
-☕ Kitchenette + 🚿 1 baño completo.
+📩 ¡Conversemos! Podemos ayudarte a dar el siguiente paso.`
+        },
 
-📩 Escríbeme al MD para agendar una visita.`
+        {
+            tipo: "video",
+            diaSemana: "Sábado 14 de noviembre",
+            imagenes: ["img/14.jpg"],
+            copy: `🏡 ¡VIVE CERCA DE TODO EN CAMINOS DEL INCA, SURCO!
+
+✨ Departamento totalmente amoblado y equipado, ubicado cerca de centros empresariales, restaurantes, supermercados y comercios.
+
+📍 Surco – Caminos del Inca
+💰 Alquiler: S/ 3,800 mensuales
+
+🔑 Características:
+✅ 65 m² | Piso 3, vista interna
+✅ 2 dormitorios con clóset
+✅ 1 baño completo
+✅ Sala-comedor y cocina americana equipada
+✅ Lavadora y gas natural
+✅ 1 cochera techada
+
+🌿 Además: Terraza con zona de parrilla, accesibilidad para sillas de ruedas y seguridad permanente.
+
+📩 ¿Te imaginas viviendo aquí? Escríbeme y coordinemos una visita.`
         }
     ]
 };
