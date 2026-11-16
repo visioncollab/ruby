@@ -6,79 +6,93 @@ const CONFIG_SEMANAL = {
     whatsappPublicaciones: "📞 Ruby Sánchez: 999.970.167",
     whatsappDestino: "",
     titulo: "Calendario Noviembre 2026",
-    rangoFechas: "Semana del martes 10 al sábado 14 de noviembre",
+    rangoFechas: "Semana del martes 17 al sábado 21 de noviembre",
     publicaciones: [
         {
             tipo: "imagen",
-            diaSemana: "Martes 10 de noviembre",
-            imagenes: ["img/10.jpg"],
-            copy: `🏡 ¡ALQUILADO EN SURCO! 🔑
+            diaSemana: "Martes 17 de noviembre",
+            imagenes: ["img/17.jpg"],
+            copy: `¿Cómo saber si una propiedad es una buena oportunidad? 🏡
 
-Este hermoso dúplex en Av. Tomás Marsano ya tiene nuevos inquilinos. ✨
+El precio por m² es importante, pero no lo es todo.
 
-¡Gracias por la confianza depositada en este proceso!
+🔎 También debes evaluar:
+📊 Oferta y demanda
+💰 Potencial de alquiler
+📍 Ubicación y entorno
+📅 Tiempo en el mercado
+📈 Valorización de la zona
 
-💬 ¿Tienes una propiedad que deseas alquilar? Conversemos y encontremos al inquilino ideal para ti.`
+Una buena inversión no depende solo del precio, sino de entender el mercado.`
         },
 
         {
             tipo: "video",
-            diaSemana: "Jueves 12 de noviembre",
-            imagenes: ["img/12.jpg"],
-            copy: `🏡 ¡BAJÓ DE PRECIO! TERRENO DE 2,025 m² EN MALA
+            diaSemana: "Jueves 19 de noviembre",
+            imagenes: ["img/19.jpg"],
+            copy: `🏡 ALQUILER DE DEPARTAMENTO EN SURCO
 
-🌿 El espacio ideal para tu casa de campo o próximo proyecto inmobiliario, en una zona de clima cálido y rodeada de naturaleza.
+📍 Av. Tomás Marsano
+💰 S/ 2,500 mensuales
+📐 150 m² | 4.º piso sin ascensor
+🛏️ 2 habitaciones | 🚿 1 baño
+🧺 Lavandería y patio pequeño
+🛋️ Amoblado o sin amoblar
 
-📍 Mala – Km 85.5 de la Panamericana Sur
-💰 Nuevo precio: USD 215,000
+Condiciones:
 
-✅ Terreno de 2,025 m² (15 m de frente x 135 m de fondo).
-✅ A solo 20 minutos del Boulevard de Asia.
-✅ Acceso por pista asfaltada.
-✅ Zonificación residencial de densidad baja (RDB).
-✅ Servicios de agua y luz en la zona.
-✅ Inscrito en Registros Públicos, sin cargas ni gravámenes.
+🔑 2 meses de garantía + 1 de adelanto
+💧 Mantenimiento: S/ 120
+📋 Arbitrios: S/ 50 mensuales
+⚡ Agua y luz según consumo
+🐾 No se aceptan mascotas.
+✨ Amplio, luminoso y cerca de comercios y transporte.
 
-✨ ¡Una oportunidad para invertir y desarrollar tu próximo proyecto!`
+📲 ¡Agenda tu visita!`
+        },
+
+        {
+            tipo: "video",
+            diaSemana: "Viernes 20 de noviembre",
+            imagenes: ["img/20.jpg"],
+            copy: `🏡 ¡VIVE EN CHACARILLA, SURCO!
+
+💰 Alquiler: S/ 3,800
+
+Disfruta de un acogedor departamento amoblado, cerca de restaurantes, supermercados y todo lo que necesitas.
+
+✨ Características:
+
+📐 64 m² | 3.er piso, vista interna
+🛏️ 2 dormitorios | 1 baño
+🍳 Cocina equipada y lavandería
+🚗 1 cochera techada
+🌇 Terraza, parrilla y seguridad 24/7
+🐾 Se aceptan mascotas pequeñas.
+🔑 Condiciones: 1 mes de garantía + 1 de adelanto. Mantenimiento aprox. S/ 333.
+📍 Cerca de Av. Primavera y Caminos del Inca.
+
+📲 ¡Agenda tu visita!`
         },
 
         {
             tipo: "imagen",
-            diaSemana: "Viernes 13 de noviembre",
-            imagenes: ["img/13.jpg"],
-            copy: `🏡🤝 ¡LAS MEJORES OPORTUNIDADES TAMBIÉN SE CONSTRUYEN EN EQUIPO!
+            diaSemana: "Sábado 21 de noviembre",
+            imagenes: ["img/21.jpg"],
+            copy: `🏢 ¡TU NEGOCIO EN SAN LUIS!
+💰 Alquiler: S/ 1,900
 
-Estuvimos en Cieneguilla junto a mi colega Merlyn (@mr.ainmbiliarios), compartiendo nuestras propiedades en venta y sumando esfuerzos para conectar a más compradores con su próxima inversión.
+Espacio amplio y versátil, ubicado en plena Av. Rosa Toro, cerca de Av. Canadá.
 
-Porque en el mundo inmobiliario, colaborar nos permite llegar más lejos y ofrecer mejores oportunidades a nuestros clientes.
+✨ Características:
+📐 70 m² | 2.º piso
+🚪 3 ambientes ventilados
+🚿 2 baños
+🍳 Minicocina y patio de aseo
+💼 Ideal para oficinas, consultorios, academias, spas o estudios profesionales.
+📍 Av. Rosa Toro 858, San Luis.
 
-📍 ¿Buscas una propiedad en Cieneguilla o estás pensando en vender la tuya?
-
-📩 ¡Conversemos! Podemos ayudarte a dar el siguiente paso.`
-        },
-
-        {
-            tipo: "video",
-            diaSemana: "Sábado 14 de noviembre",
-            imagenes: ["img/14.jpg"],
-            copy: `🏡 ¡VIVE CERCA DE TODO EN CAMINOS DEL INCA, SURCO!
-
-✨ Departamento totalmente amoblado y equipado, ubicado cerca de centros empresariales, restaurantes, supermercados y comercios.
-
-📍 Surco – Caminos del Inca
-💰 Alquiler: S/ 3,800 mensuales
-
-🔑 Características:
-✅ 65 m² | Piso 3, vista interna
-✅ 2 dormitorios con clóset
-✅ 1 baño completo
-✅ Sala-comedor y cocina americana equipada
-✅ Lavadora y gas natural
-✅ 1 cochera techada
-
-🌿 Además: Terraza con zona de parrilla, accesibilidad para sillas de ruedas y seguridad permanente.
-
-📩 ¿Te imaginas viviendo aquí? Escríbeme y coordinemos una visita.`
+📲 ¡Agenda tu visita!`
         }
     ]
 };
